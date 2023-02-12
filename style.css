@@ -15,4 +15,5 @@ button {
   font-size: large;
   font-weight: 800;
   background-color: darkseagreen;
+  border: 2px solid black;
 }
